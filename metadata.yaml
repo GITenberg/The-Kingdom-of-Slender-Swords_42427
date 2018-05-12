@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34390'
     url: http://www.gutenberg.org/2009/agents/34390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42427#The-Kingdom-of-Slender-Swords
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2013-03-29'
 gutenberg_type: Text
